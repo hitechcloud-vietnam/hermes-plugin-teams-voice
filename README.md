@@ -3,7 +3,7 @@
 [![PyPI](https://img.shields.io/pypi/v/hermes-plugin-teams-voice.svg)](https://pypi.org/project/hermes-plugin-teams-voice/)
 [![Python](https://img.shields.io/pypi/pyversions/hermes-plugin-teams-voice.svg)](https://pypi.org/project/hermes-plugin-teams-voice/)
 [![CI](https://github.com/hitechcloud-vietnam/hermes-plugin-teams-voice/actions/workflows/ci.yml/badge.svg)](https://github.com/hitechcloud-vietnam/hermes-plugin-teams-voice/actions/workflows/ci.yml)
-[![Docs](https://img.shields.io/badge/docs-komaa.com-1f8acb.svg)](https://docs.komaa.com/)
+[![Docs](https://img.shields.io/badge/docs-komaa.com-1f8acb.svg)](https://hitechcloud.vn/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Microsoft Teams **voice/video (Conversational Video Interface)** for **Hermes Agent**,
